@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-
+//compute the nums of inverse pairs
 long long Merge(vector<int>& data,
 	int begin, int end)
 {
