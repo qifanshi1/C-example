@@ -59,7 +59,5 @@ int main()
 	vector<int> vin = { 4,7,2,1,5,3,8,6 };
 	Solution solution;
 	TreeNode* root = solution.reConstructBinaryTree(pre, vin);
-	//throw new exception("queue is empty!");
-	system("pause");
 	return 0;
 }
